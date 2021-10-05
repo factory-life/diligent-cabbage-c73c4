@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Our business will help introduce your business to the latest in web development technologies. We offer custom mobile/web/desktop application development, maintenance services, remote.
       
-      
+      We aim 
     actions:
       - label: Learn More
         url: /features
