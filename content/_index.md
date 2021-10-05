@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: IMG Digital
     subtitle: >-
-      Our business will help introduce your business to the latest in web development technologies. We can develop robust websites 
+      Our business will help introduce your business to the latest in web development technologies. We offer custom mobile/web/desktop application development, maintenance services, remote
     actions:
       - label: Learn More
         url: /features
