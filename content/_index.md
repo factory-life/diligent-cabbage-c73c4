@@ -4,9 +4,13 @@ sections:
   - type: hero_section
     title: IMG Digital
     subtitle: >-
-      Our business will help introduce your business to the latest in web development technologies. We offer custom mobile/web/desktop application development, maintenance services, remote.
-      
-      All business types are welcome if you are interedted in representing your brand on the most powerfull and fastest platforms and technologies available. 
+      Our business will help introduce your business to the latest in web
+      development technologies. We offer custom mobile/web/desktop application
+      development, maintenance services, remote.
+
+      All business types are welcome if you are interedted in representing your
+      brand on the most powerfull and fastest platforms and technologies
+      available. 
     actions:
       - label: Learn More
         url: /features
@@ -20,7 +24,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: gray
       background_image: images/diagonal-lines.svg
       background_image_opacity: 20
       background_image_size: auto
