@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: IMG Digital
     subtitle: >-
-      Our 
+      Our business will help introduce your 
     actions:
       - label: Learn More
         url: /features
