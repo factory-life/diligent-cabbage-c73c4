@@ -24,7 +24,7 @@ sections:
     image_position: left
     has_background: true
     background:
-      background_color: white
+      background_color: gray
       background_image: images/1.png
       background_image_opacity: 100
       background_image_size: auto
