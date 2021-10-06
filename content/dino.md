@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: IMG Digital
 seo:
   title: ''
   description: ''
