@@ -43,7 +43,7 @@ sections:
           nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in
           nibh fringilla, fringilla.***
         align: center
-        image: images/feature.svg
+        image: images/wp1828916.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
