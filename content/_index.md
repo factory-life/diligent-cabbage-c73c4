@@ -30,7 +30,7 @@ sections:
       background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: IMG
     features:
       - title: Feature 1
         content: >-
