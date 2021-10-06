@@ -29,7 +29,7 @@ sections:
       background_image_size: cover
       background_image_repeat: repeat
   - type: blog_feed_section
-    title: What's New
+    title: Web developer Cape Town
     show_recent: true
     recent_count: 3
   - type: cta_section
