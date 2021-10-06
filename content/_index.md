@@ -22,7 +22,7 @@ sections:
     image: images/web development custom coding cape town.png
     image_alt: Hero placeholder image
     image_position: left
-    has_background: false
+    has_background: true
     background:
       background_color: gray
       background_image: images/wp1828916.png
