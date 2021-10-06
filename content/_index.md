@@ -32,7 +32,7 @@ sections:
   - type: features_section
     title: IMG
     features:
-      - title: web de
+      - title: wEB DEVELOPMENT
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
