@@ -32,7 +32,7 @@ sections:
     title: Web developer Cape Town
     show_recent: true
     recent_count: 3
-  - title: lorem-ipsum
+  - title: Jamstack Web technologies
     content: >-
       ## Lorem ipsum
 
