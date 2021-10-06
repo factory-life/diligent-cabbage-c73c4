@@ -1,6 +1,6 @@
 {{ $section := .section }}
 {{ $background := $section.background }}
-{{ $background_color := $background.background_color | default "white" }}
+{{ $background_color := $background.background_color | default "black" }}
 {{ $background_opacity_pct := $background.background_image_opacity | default 100 }}
 {{ $background_opacity := mul $background_opacity_pct 0.01 }}
 {{ $background_size := $background.background_image_size | default "cover" }}
