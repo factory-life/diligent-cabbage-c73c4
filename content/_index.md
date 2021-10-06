@@ -33,15 +33,12 @@ sections:
     title: IMG
     features:
       - title: WEB DEVELOPMENT
-        content: >
+        content: |
           ![](images/thumb-1920-665091.jpg)
 
+          *   *seo*
 
-
-
-          ## ***Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-          nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in
-          nibh fringilla, fringilla.***
+          *   *Web Development*
         align: center
         image: images/wp1828916.png
         image_alt: Feature 1 placeholder image
