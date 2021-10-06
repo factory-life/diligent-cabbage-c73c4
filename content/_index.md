@@ -25,7 +25,7 @@ sections:
     has_background: false
     background:
       background_color: gray
-      background_image: images/1.png
+      background_image: images/wp1828916.png
       background_image_opacity: 100
       background_image_size: cover
       background_image_repeat: repeat
