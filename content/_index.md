@@ -32,7 +32,7 @@ sections:
   - type: features_section
     title: IMG
     features:
-      - title: wEB DEVELOPMENT
+      - title: WEB DEVELOPMENT
         content: >
           ![](images/thumb-1920-665091.jpg)
 
