@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: IMG Digital
+    title: Roxstar Performance
     subtitle: >-
       Our business will help introduce your business to the latest in web
       development technologies. We offer custom mobile/web/desktop application
