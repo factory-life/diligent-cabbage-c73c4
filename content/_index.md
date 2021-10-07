@@ -35,8 +35,7 @@ sections:
       touring motorcycles.
     show_recent: true
     recent_count: 3
-  - title: lorem-ipsum
-    content: >
+  - content: >
       ## **Cape Town motorcycle parts supplier: **Wholesale and retail
       available 
 
