@@ -76,7 +76,9 @@ sections:
     has_background: true
     background_color: gray
   - title: Sportbike parts South Africa
-    subtitle: 'Our exiting motorcycle products will give you sheer performance and '
+    subtitle: >-
+      Our exiting motorcycle products will give you sheer performance and
+      complete satisfaction. 
     actions: []
     align: left
     image_alt: lorem-ipsum
