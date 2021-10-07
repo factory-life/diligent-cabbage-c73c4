@@ -35,6 +35,19 @@ sections:
       touring motorcycles.
     show_recent: true
     recent_count: 3
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - title: >-
       Since 2007 - Premium aftermarket motorcycle brands supplied throughout the
       entire South African market.
