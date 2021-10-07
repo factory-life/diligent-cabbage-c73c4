@@ -79,7 +79,7 @@ sections:
     content: |
       ## Some of our recommended brands include:
 
-      ![](images/banner%201%20roxstar.jpg)
+
 
 
 
