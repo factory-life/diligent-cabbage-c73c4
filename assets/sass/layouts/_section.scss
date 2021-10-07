@@ -50,6 +50,7 @@
 .section--features {
   .cell {
     max-width: $width-md;
+    color: black;
 
     &:only-child {
       flex: 0 0 100%;
