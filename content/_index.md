@@ -53,13 +53,13 @@ sections:
 
       ![](images/dino%20de%20wet%20roxstar%20performance.jpg)
 
-      V-Twin bikes**
+      V-Twin bikes
 
 
-      ### **Harley Davidson motorbikes**
+      Harley Davidson motorbikes**
 
 
-      ### **Adventure Touring motorcycles**
+     Adventure Touring motorcycles**
 
 
       ### \*\*Sportbike | Superbike \*\*
