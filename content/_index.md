@@ -18,7 +18,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: 'images/aftermarket ,motorcycle parts south africa.jpg'
+    image: images/aftermarket motorcycle parts south africa.jpg
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
