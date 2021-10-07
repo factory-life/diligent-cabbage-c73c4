@@ -36,16 +36,16 @@ sections:
     show_recent: true
     recent_count: 3
   - content: >
-      # Cape Town motorcycle parts supplier: Wholesale and retail available.
+      # **Cape Town motorcycle parts supplier: Wholesale and retail available.**
 
 
       We are the supplier of premium performance motorcycle brands in and around
       South Africa. We are based down in Cape Town but mostly deal with
       customers from up in the country and throughout the rest of Africa. We
       cater for the following markets or types of motorcycles. - V-Twin
-      motorcycles - Harley Davidson motorcycles - Sportbike and superbike
-      modification and performance parts - Adventure touring motorcycles:
-      Performance exhausts and other aftermarket motorcycle accessories
+      motorcycles - **Harley Davidson motorcycles** -** Sportbike and superbike
+      modification and performance parts** - **Adventure touring motorcycles:
+      Performance exhausts and other aftermarket motorcycle accessories**
 
 
       *   **V-Twin bikes**
@@ -68,7 +68,7 @@ sections:
       to many South African and African riders accross all areas of life.**
 
 
-      \*\*\*\*![](images/joe-neric-HHunRG19kF8-unsplash.jpg)
+      \*\*\*\*
     type: content_section
   - content: >
       ## Since 2007 - Premium aftermarket motorcycle brands supplied throughout
