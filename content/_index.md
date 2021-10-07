@@ -44,7 +44,7 @@ sections:
       customers from up in the country and throughout the rest of Africa. We
       cater for the following markets or types of motorcycles.<br>
       - V-Twin motorcycles
-      - Harley Davidson motorcycles
+      <br>- Harley Davidson motorcycles
       - Sportbike and superbike modification and performance parts
       - Adventure touring motorcycles: Performance exhausts and other aftermarket motorcyle accessories
 
