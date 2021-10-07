@@ -66,7 +66,7 @@ sections:
       If you need any further information feel free to contact us for a suitable
       and affordable price or just additional information.
     actions:
-      - label: Learn More
+      - label: Contact us
         url: /features
         style: primary
     has_background: true
