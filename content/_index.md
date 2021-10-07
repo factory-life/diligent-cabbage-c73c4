@@ -36,7 +36,7 @@ sections:
     show_recent: true
     recent_count: 3
   - content: >
-      Cape Town motorcycle parts supplier: Wholesale and retail available 
+      Cape Town motorcycle parts supplier: Wholesale and retail available.
 
 
       We are the supplier of premium performance motorcycle brands in and around
