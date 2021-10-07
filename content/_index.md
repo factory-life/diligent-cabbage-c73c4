@@ -30,7 +30,7 @@ sections:
       background_image: images/1.jpg
   - title: Supplier of aftermarket motorcycle parts in South Africa
     subtitle: >-
-      lIf you are looking for performance brands for your motorcycle then
+      f you are looking for performance brands for your motorcycle then
       Roxstar Performance is your online source of the latest motorbike industry
       brands from around the world. With over 20 years of direct industry
       experience we are still going strong and serve the South African
