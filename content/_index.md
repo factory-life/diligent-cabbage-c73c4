@@ -63,8 +63,8 @@ sections:
   - type: cta_section
     title: Let's talk about your ride
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      If you need any further information feel free to contact us for a suitable
+      and affordable price or just additional information.
     actions:
       - label: Learn More
         url: /features
