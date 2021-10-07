@@ -4,13 +4,12 @@ sections:
   - type: hero_section
     title: Roxstar Performance
     subtitle: >-
-      Our business will help introduce your business to the latest in web
-      development technologies. We offer custom mobile/web/desktop application
-      development, maintenance services, remote.
-
-      All business types are welcome if you are interedted in representing your
-      brand on the most powerfull and fastest platforms and technologies
-      available. 
+      South Africas leading supplier of Aftermarket brands for your
+      motorcycle.Harley DavidsonSportbikeV-TwinAdventure TouringMetric cruiserWe
+      get the parts you want at the fastest possible turn-around time.
+      Completely hassle free with no hidden costs. With over 20 years direct
+      industry experience we are your number 1 source for trusted brands that
+      enhance performance for your bike.
     actions:
       - label: Learn More
         url: /features
