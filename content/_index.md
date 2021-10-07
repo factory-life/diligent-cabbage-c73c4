@@ -76,7 +76,7 @@ sections:
     has_background: true
     background_color: gray
   - title: Sportbike parts South Africa
-    subtitle: lorem-ipsum
+    subtitle: 'Our '
     actions: []
     align: left
     image_alt: lorem-ipsum
