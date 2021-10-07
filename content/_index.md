@@ -35,8 +35,7 @@ sections:
       brands from around the world. With over 20 years of direct industry
       experience we are still going strong and serve the South African
       motorcycle market with bespoke brands and bike accessories on a daily
-      basis.
-      color: white;
+      basis
     actions: []
     align: left
     image_alt: lorem-ipsum
