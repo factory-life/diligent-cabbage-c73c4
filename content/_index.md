@@ -142,7 +142,7 @@ sections:
       ## **Speedpro Cobra Performance Exhausts: Recommended brand**&#xA;
 
 
-      ![](images/speedpro%20cobra%20exhausts%20south%20africa.jpg)
+
 
 
 
@@ -166,19 +166,21 @@ sections:
       ## **Scorpion Performance Exhausts**
 
 
-      ![](images/scorpion%20exhausts%20south%20africa.jpg)
+      ****
+
+
 
 
       **Scorpion has been so well received by the South African motorcycle
       industry**
 
 
-      and we are a** top South African supplier** for this exciting brand. Bolt
-      on performance 
+      and we are a\*\* top South African supplier\*\* for this exciting brand.
+      Bolt on performance
 
 
       and enjoy the sound of a **Scorpion Performance exhaust**. Contact us
-      today at 076 382 2832 
+      today at 076 382 2832
 
 
       **for any additional information or assistance.**
