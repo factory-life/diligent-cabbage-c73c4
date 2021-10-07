@@ -2,85 +2,168 @@
 title: Home
 sections:
   - type: hero_section
-    title: IMG Digital
+    title: Roxstar Performance
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      South Africas leading supplier of Aftermarket brands for your
+      motorcycle.Harley DavidsonSportbikeV-TwinAdventure TouringMetric cruiserWe
+      get the parts you want at the fastest possible turn-around time.
+      Completely hassle free with no hidden costs. With over 20 years direct
+      industry experience we are your number 1 source for trusted brands that
+      enhance performance for your bike
     actions:
-      - label: Learn More
+      - label: Contact us
         url: /features
-        style: primary
-      - label: Contact Us
+        style: secondary
+      - label: About us
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/aftermarket motorcycle parts south africa.jpg
     image_alt: Hero placeholder image
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: blue
-      background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
-      background_image_size: auto
+      background_image_opacity: 100
+      background_image_size: cover
       background_image_repeat: repeat
-  - type: features_section
-    title: Features
-    features:
-      - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-      - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-      - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+      background_image: images/paper black background.jpg
   - type: blog_feed_section
-    title: What's New
+    title: >-
+      We supply the biggest and latest motorcycle brands from around the world.
+      Our business focuses on v-twin/ Harley Davidson, Sportbike, Adventure
+      touring motorcycles.
     show_recent: true
     recent_count: 3
+  - title: >-
+      Since 2007 - Premium aftermarket motorcycle brands supplied throughout the
+      entire South African market.
+    content: |
+      ## Some of our recommended brands include:
+
+      ![](images/banner%201%20roxstar.jpg)
+
+
+
+      *   **Scorpion performance exhausts**
+
+      *   **Speedpro Cobra exhausts**
+
+      *   **Vance and Hines Exhausts**
+
+      *   **Bassani Exhausts**
+
+      *   **Cobra Exhausts**
+
+      *   **BST Custom wheels**
+
+      *   **Samson Exhausts**
+
+      *   **Rhinehart exhausts**
+
+      *   **Brocks Performance exhausts**
+
+      *   **Toce Performance exhausts**
+
+      ***
+
+      \*\*\*\*![](images/PERFORMANCE%20BIKES.jpg)
+
+      \*\*\*\*![](images/roxstar-performance.jpg)
+    type: content_section
   - type: cta_section
-    title: This Is A CTA
+    title: Let's talk about your ride
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      If you need any further information feel free to contact us for a suitable
+      and affordable price or just additional information.
     actions:
-      - label: Learn More
+      - label: Contact us
         url: /features
-        style: primary
+        style: secondary
     has_background: true
-    background_color: gray
+    background_color: blue
+  - title: Sportbike parts South Africa
+    subtitle: >-
+      Our exiting motorcycle products will give you sheer performance and
+      complete satisfaction. Throughout the years every brand we have supplied
+      has always resulted in satisfied customers.
+    actions: []
+    align: left
+    image_alt: lorem-ipsum
+    image_position: left
+    has_background: false
+    background:
+      background_color: white
+      background_image_opacity: 0
+      background_image_size: cover
+      background_image_repeat: no-repeat
+    type: hero_section
+  - content: >
+      ## **Speedpro Cobra Performance Exhausts: Recommended brand**&#xA;
+
+
+      ![](images/speedpro%20cobra%20exhausts%20south%20africa.jpg)
+
+
+
+      ### **Category: Performance Sportbike Exhausts**
+
+
+      *   **Give your adventure touring or sportbike motorcycles a great
+      performance boost.**
+
+
+      *   **Cutting edge design - available black, stainless, carbon and
+      titanium**
+
+
+      *   **Proven technology built in Germany.**
+
+
+      *   **Each motorcycle exhaust is hand-crafted**
+
+
+      ## **Scorpion Performance Exhausts**
+
+
+      ![](images/scorpion%20exhausts%20south%20africa.jpg)
+
+
+      **Scorpion has been so well received by the South African motorcycle
+      industry**
+
+
+      and we are a** top South African supplier** for this exciting brand. Bolt
+      on performance 
+
+
+      and enjoy the sound of a **Scorpion Performance exhaust**. Contact us
+      today at 076 382 2832 
+
+
+      **for any additional information or assistance.**
+
+
+      ***
+
+
+      ![](images/vance%20nd%20hines%20south%20africa.jpg)
+
+
+      ## **Vance and Hines South Africa**
+
+
+      \*\*One of the leading suppliers of ***Vance and Hines exhausts*** and all
+      related products \*\*
+
+
+      \*\*within the **Vance and Hines brand**. The world famous brand is
+      instantly recognized \*\*
+
+
+      **among Harley Davidson owners. Call 076 382 2832 for any additional
+      information.**
+    type: content_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme

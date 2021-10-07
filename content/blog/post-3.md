@@ -7,7 +7,8 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: images/3.png
+image: >-
+  images/speedpro-cobra-spx-blackseries-slip-on-road-legal-ktm-1290-super-duke-gt_2.png
 image_alt: Post 3 placeholder image
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
