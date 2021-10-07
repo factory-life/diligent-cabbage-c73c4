@@ -46,14 +46,15 @@ sections:
       - V-Twin motorcycles
       <br>- Harley Davidson motorcycles
       <br>- Sportbike and superbike modification and performance parts
-      <br>- Adventure touring motorcycles: Performance exhausts and other aftermarket motorcyle accessories
+      - Adventure touring motorcycles: Performance exhausts and other aftermarket motorcyle accessories
 
 
 
 
       ![](images/dino%20de%20wet%20roxstar%20performance.jpg)
 
-     V-Twin bikes**
+
+      ### **V-Twin bikes**
 
 
       ### **Harley Davidson motorbikes**
