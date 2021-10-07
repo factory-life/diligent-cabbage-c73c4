@@ -160,13 +160,13 @@ sections:
       *   **Each motorcycle exhaust is hand-crafted**
 
 
-      ****
+      ***
 
 
       ## **Scorpion Performance Exhausts**
 
 
-      ****
+      ***
 
 
       ***
@@ -188,8 +188,6 @@ sections:
 
 
       ***
-
-
 
 
       ## **Vance and Hines South Africa**
