@@ -34,7 +34,9 @@ sections:
       touring motorcycles.
     show_recent: true
     recent_count: 3
-  - title: Jamstack Web technologies
+  - title: >-
+      Since 2007 - Premium aftermarket motorcycle brands supplied throughout the
+      entire South African market.
     content: >-
       ## Lorem ipsum
 
