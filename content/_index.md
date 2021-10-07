@@ -127,8 +127,7 @@ sections:
         style: secondary
     has_background: true
     background_color: white
-  - title: Sportbike parts South Africa
-    subtitle: >-
+  - subtitle: >-
       Our exiting motorcycle products will give you sheer performance and
       complete satisfaction. Throughout the years every brand we have supplied
       has always resulted in satisfied customers.
