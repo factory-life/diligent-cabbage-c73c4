@@ -48,8 +48,6 @@ sections:
       Performance exhausts and other aftermarket motorcycle accessories
 
 
-
-
       *   **V-Twin bikes**
 
 
@@ -70,7 +68,7 @@ sections:
       to many South African and African riders accross all areas of life.**
 
 
-      \*\*\*\*![](images/bike-rider-with-gears-on-minimal-4k\_1618131491.jpg)![](images/joe-neric-HHunRG19kF8-unsplash.jpg)
+      \*\*\*\*![](images/joe-neric-HHunRG19kF8-unsplash.jpg)
     type: content_section
   - content: >
       ## Since 2007 - Premium aftermarket motorcycle brands supplied throughout
