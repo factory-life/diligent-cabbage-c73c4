@@ -28,7 +28,10 @@ sections:
       background_image_size: cover
       background_image_repeat: repeat
   - type: blog_feed_section
-    title: Web developer Cape Town
+    title: >-
+      We supply the biggest and latest motorcycle brands from around the world.
+      Our business focuses on v-twin/ Harley Davidson, Sportbike, Adventure
+      touring motorcycles.
     show_recent: true
     recent_count: 3
   - title: Jamstack Web technologies
