@@ -36,7 +36,7 @@ sections:
       experience we are still going strong and serve the South African
       motorcycle market with bespoke brands and bike accessories on a daily
       basis
-    actions: [color: white]
+    actions: []
     align: left
     image_alt: lorem-ipsum
     image_position: left
