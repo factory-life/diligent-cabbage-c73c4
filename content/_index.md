@@ -14,7 +14,7 @@ sections:
       - label: Contact us
         url: /features
         style: primary
-      - label: Contact Us
+      - label: About us
         url: /contact
         style: secondary
     align: left
