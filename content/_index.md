@@ -9,7 +9,7 @@ sections:
       get the parts you want at the fastest possible turn-around time.
       Completely hassle free with no hidden costs. With over 20 years direct
       industry experience we are your number 1 source for trusted brands that
-      enhance performance for your bike.
+      enhance performance for your bike
     actions:
       - label: Learn More
         url: /features
