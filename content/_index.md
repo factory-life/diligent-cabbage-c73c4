@@ -42,7 +42,7 @@ sections:
       We are the supplier of premium performance motorcycle brands in and around
       South Africa. We are based down in Cape Town but mostly deal with
       customers from up in the country and throughout the rest of Africa. We
-      cater for the following markets or types of motorcycles.
+      cater for the following markets or types of motorcycles.<br>
       - V-Twin motorcycles
       - Harley Davidson motorcycles
       - Sportbike and superbike modification and performance parts
