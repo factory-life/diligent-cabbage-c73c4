@@ -137,11 +137,10 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ## **Speedpro Cobra Performance Exhausts: Recommended brand**&#xA;
+      ## **Speedpro Cobra Performance Exhausts: Recommended brand**
 
 
-
-
+      ## &#xA;![](images/download%20\(12\).jpg)
 
 
       ### **Category: Performance Sportbike Exhausts**
@@ -161,12 +160,16 @@ sections:
       *   **Each motorcycle exhaust is hand-crafted**
 
 
+      ****
+
+
       ## **Scorpion Performance Exhausts**
 
 
       ****
 
 
+      ***
 
 
       **Scorpion has been so well received by the South African motorcycle
@@ -187,7 +190,6 @@ sections:
       ***
 
 
-      ![](images/vance%20nd%20hines%20south%20africa.jpg)
 
 
       ## **Vance and Hines South Africa**
