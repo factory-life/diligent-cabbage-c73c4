@@ -96,8 +96,28 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
   - title: lorem-ipsum
-    content: |
-      *
+    content: >
+      ![](images/speedpro%20cobra%20exhausts%20south%20africa.jpg)
+
+
+      **Speedpro Cobra Performance Exhausts: Recommended brand **
+
+
+      ### **Category: Performance Sportbike Exhausts**
+
+
+      *   **Give your adventure touring or sportbike motorcycles a great
+      performance boost.**
+
+
+      *   **Cutting edge design - available black, stainless, carbon and
+      titanium**
+
+
+      *   **Proven technology built in Germany.**
+
+
+      *   **Each motorcycle exhaust is hand-crafted**
     type: content_section
 seo:
   title: Stackbit Starter Theme
