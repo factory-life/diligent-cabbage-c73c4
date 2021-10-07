@@ -79,7 +79,7 @@ sections:
     subtitle: >-
       Our exiting motorcycle products will give you sheer performance and
       complete satisfaction. Throughout the years every brand we have supplied
-      has p
+      has only resul
     actions: []
     align: left
     image_alt: lorem-ipsum
