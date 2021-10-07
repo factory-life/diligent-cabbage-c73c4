@@ -27,6 +27,7 @@ sections:
       background_image_opacity: 100
       background_image_size: cover
       background_image_repeat: repeat
+      background_image: images/paper black background.jpg
   - type: blog_feed_section
     title: >-
       We supply the biggest and latest motorcycle brands from around the world.
