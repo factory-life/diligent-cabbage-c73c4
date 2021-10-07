@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Contact us
         url: /features
-        style: primary
+        style: secondary
       - label: About us
         url: /contact
         style: secondary
