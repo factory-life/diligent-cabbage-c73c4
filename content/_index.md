@@ -43,7 +43,9 @@ sections:
       cater for the following markets or types of motorcycles.
 
 
-      ![](images/31deb2a9ce43df9ddf977fadd94a9558.jpg)
+      ![](images/dino%20de%20wet%20roxstar%20performance.jpg)
+
+
 
 
       ### **V-Twin bikes**
@@ -55,7 +57,7 @@ sections:
       ### **Adventure Touring motorcycles**
 
 
-      ### **Sportbike | Superbike **
+      ### \*\*Sportbike | Superbike \*\*
 
 
       **Our portfolio of branded parts and accessories are well equiped to
@@ -66,7 +68,7 @@ sections:
       to many South African and African riders accross all areas of life.**
 
 
-      ****![](images/bike-rider-with-gears-on-minimal-4k\_1618131491.jpg)
+      \*\*\*\*![](images/bike-rider-with-gears-on-minimal-4k\_1618131491.jpg)
     type: content_section
   - title: >-
       Since 2007 - Premium aftermarket motorcycle brands supplied throughout the
