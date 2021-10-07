@@ -79,7 +79,7 @@ sections:
         url: /features
         style: secondary
     has_background: true
-    background_color: gray
+    background_color: blue
   - title: Sportbike parts South Africa
     subtitle: >-
       Our exiting motorcycle products will give you sheer performance and
