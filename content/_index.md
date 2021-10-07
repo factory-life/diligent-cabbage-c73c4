@@ -37,17 +37,28 @@ sections:
   - title: >-
       Since 2007 - Premium aftermarket motorcycle brands supplied throughout the
       entire South African market.
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Some of our recommended brands include:&#xA;&#xA;
 
+      *   **Scorpion performance exhausts**
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   **Speedpro Cobra exhausts**
 
+      *   **Vance and Hines Exhausts**
 
-      - Lorem ipsum
+      *   **Bassani Exhausts**
 
-      - dolor sit amet
+      *   **Cobra Exhausts**
+
+      *   **BST Custom wheels**
+
+      *   **Samson Exhausts**
+
+      *   **Rhinehart exhausts**
+
+      *   **Brocks Performance exhausts**
+
+      *   **Toce Performance exhausts**
     type: content_section
   - type: cta_section
     title: This Is A CTA
