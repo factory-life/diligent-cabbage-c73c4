@@ -37,6 +37,10 @@ sections:
     recent_count: 3
   - title: lorem-ipsum
     content: >
+      ## **Cape Town motorcycle parts supplier: **Wholesale and retail
+      available 
+
+
       We are the supplier of premium performance motorcycle brands in and around
       South Africa. We are based down in Cape Town but mostly deal with
       customers from up in the country and throughout the rest of Africa. We
@@ -44,8 +48,6 @@ sections:
 
 
       ![](images/dino%20de%20wet%20roxstar%20performance.jpg)
-
-
 
 
       ### **V-Twin bikes**
