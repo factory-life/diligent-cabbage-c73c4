@@ -68,7 +68,7 @@ sections:
     actions:
       - label: Contact us
         url: /features
-        style: primary
+        style: secondary
     has_background: true
     background_color: gray
 seo:
