@@ -45,10 +45,9 @@ sections:
       cater for the following markets or types of motorcycles. - V-Twin
       motorcycles - Harley Davidson motorcycles - Sportbike and superbike
       modification and performance parts - Adventure touring motorcycles:
-      Performance exhausts and other aftermarket motorcyle accessories
+      Performance exhausts and other aftermarket motorcycle accessories
 
 
-      ![](images/dino%20de%20wet%20roxstar%20performance.jpg)
 
 
       *   **V-Twin bikes**
