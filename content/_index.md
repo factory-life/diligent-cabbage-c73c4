@@ -101,7 +101,7 @@ sections:
       ![](images/speedpro%20cobra%20exhausts%20south%20africa.jpg)
 
 
-      ## Speedpro Cobra Performance Exhausts: Recommended brand 
+      ## Speedpro Cobra Performance Exhausts: Recommended brand
 
 
       ### **Category: Performance Sportbike Exhausts**
@@ -119,6 +119,48 @@ sections:
 
 
       *   **Each motorcycle exhaust is hand-crafted**
+
+
+      ****![](images/scorpion%20exhausts%20south%20africa.jpg)
+
+
+      ## **Scorpion Performance Exhausts**
+
+
+      **Scorpion has been so well received by the South African motorcycle
+      industry**
+
+
+      **and we are a top South African supplier for this exciting brand. Bolt on
+      performance **
+
+
+      **and enjoy the sound of a Scorpion Performance exhaust. Contact us today
+      at 076 382 2832 **
+
+
+      **for any additional information or assistance.**
+
+
+      ****
+
+
+      ****![](images/vance%20nd%20hines%20south%20africa.jpg)
+
+
+      ## **Vance and Hines South Africa**
+
+
+      **One of the leading suppliers of Vance and Hines exhausts and all related
+      products **
+
+
+      **within the Vance and Hines brand. The world famous brand is instantly
+      recognized **
+
+
+      **among Harley Davidson owners. Call 076 382 2832 for any additional
+      information.**
     type: content_section
 seo:
   title: Stackbit Starter Theme
