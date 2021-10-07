@@ -60,9 +60,15 @@ sections:
 
       *   **Toce Performance exhausts**
 
-      ****
+      ***
 
-      ****![](images/PERFORMANCE%20BIKES.jpg)
+      \*\*\*\*![](images/PERFORMANCE%20BIKES.jpg)
+
+
+
+      ![](images/speedpro%20cobra%20exhausts%20south%20africa.jpg) 
+
+      **Featured brand for October: Speedpro Cobra performance exhausts.**
     type: content_section
   - type: cta_section
     title: Let's talk about your ride
