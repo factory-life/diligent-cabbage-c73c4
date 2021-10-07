@@ -39,7 +39,11 @@ sections:
       Since 2007 - Premium aftermarket motorcycle brands supplied throughout the
       entire South African market.
     content: |
-      ## Some of our recommended brands include:&#xA;&#xA;
+      ## Some of our recommended brands include:
+
+      ![](images/motorcycle%20parts%20south%20africa.jpg)
+
+
 
       *   **Scorpion performance exhausts**
 
@@ -65,9 +69,7 @@ sections:
 
       \*\*\*\*![](images/PERFORMANCE%20BIKES.jpg)
 
-
-
-      ****![](images/roxstar-performance.jpg)
+      \*\*\*\*![](images/roxstar-performance.jpg)
     type: content_section
   - type: cta_section
     title: Let's talk about your ride
