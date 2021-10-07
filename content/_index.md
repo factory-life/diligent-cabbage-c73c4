@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Roxstar Performance
-    subtitle: color: >-
+    subtitle: >-
       South Africas leading supplier of Aftermarket brands for your
       motorcycle.Harley DavidsonSportbikeV-TwinAdventure TouringMetric cruiserWe
       get the parts you want at the fastest possible turn-around time.
