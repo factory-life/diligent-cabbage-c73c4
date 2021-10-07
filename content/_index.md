@@ -41,7 +41,7 @@ sections:
     content: |
       ## Some of our recommended brands include:
 
-      ![](images/motorcycle%20parts%20south%20africa.jpg)
+      ![](images/banner%201%20roxstar.jpg)
 
 
 
