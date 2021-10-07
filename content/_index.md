@@ -36,8 +36,37 @@ sections:
     show_recent: true
     recent_count: 3
   - title: lorem-ipsum
-    content: |
-      *
+    content: >
+      We are the supplier of premium performance motorcycle brands in and around
+      South Africa. We are based down in Cape Town but mostly deal with
+      customers from up in the country and throughout the rest of Africa. We
+      cater for the following markets or types of motorcycles.
+
+
+      ![](images/31deb2a9ce43df9ddf977fadd94a9558.jpg)
+
+
+      ### **V-Twin bikes**
+
+
+      ### **Harley Davidson motorbikes**
+
+
+      ### **Adventure Touring motorcycles**
+
+
+      ### **Sportbike | Superbike **
+
+
+      **Our portfolio of branded parts and accessories are well equiped to
+      supply any aftermarket part you can dream of. Think of motorcycle parts
+      supply in South Africa  and you should definetly consider Roxstar
+      Performance to assist you in getting your exact motorcycle parts in the
+      shortest possible lead time and at pricing that is relevant and accessible
+      to many South African and African riders accross all areas of life.**
+
+
+      ****![](images/bike-rider-with-gears-on-minimal-4k\_1618131491.jpg)
     type: content_section
   - title: >-
       Since 2007 - Premium aftermarket motorcycle brands supplied throughout the
