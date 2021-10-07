@@ -59,6 +59,10 @@ sections:
       *   **Brocks Performance exhausts**
 
       *   **Toce Performance exhausts**
+
+      ****
+
+      ****![](images/PERFORMANCE%20BIKES.jpg)
     type: content_section
   - type: cta_section
     title: Let's talk about your ride
