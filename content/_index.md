@@ -124,7 +124,7 @@ sections:
         url: /features
         style: secondary
     has_background: true
-    background_color: white
+    background_color: gray
   - actions: []
     align: left
     image_alt: lorem-ipsum
