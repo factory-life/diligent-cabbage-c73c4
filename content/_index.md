@@ -66,9 +66,7 @@ sections:
 
 
 
-      ![](images/speedpro%20cobra%20exhausts%20south%20africa.jpg) 
-
-      **Featured brand for October: Speedpro Cobra performance exhausts.**
+      ****![](images/roxstar-performance.jpg)
     type: content_section
   - type: cta_section
     title: Let's talk about your ride
