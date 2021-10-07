@@ -28,7 +28,7 @@ sections:
       background_image_size: cover
       background_image_repeat: repeat
       background_image: images/1.jpg
-  - title: lorem-ipsum
+  - title: Supplier of aftermarket motorcycle parts in South Africa
     subtitle: lorem-ipsum
     actions: []
     align: left
