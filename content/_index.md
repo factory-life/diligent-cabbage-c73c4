@@ -11,7 +11,7 @@ sections:
       industry experience we are your number 1 source for trusted brands that
       enhance performance for your bike
     actions:
-      - label: Learn More
+      - label: Contact us
         url: /features
         style: primary
       - label: Contact Us
