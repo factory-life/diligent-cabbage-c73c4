@@ -42,25 +42,22 @@ sections:
       We are the supplier of premium performance motorcycle brands in and around
       South Africa. We are based down in Cape Town but mostly deal with
       customers from up in the country and throughout the rest of Africa. We
-      cater for the following markets or types of motorcycles.
-      - V-Twin motorcycles
-      - Harley Davidson motorcycles
-      - Sportbike and superbike modification and performance parts
-      - Adventure touring motorcycles: Performance exhausts and other aftermarket motorcyle accessories
-
-
+      cater for the following markets or types of motorcycles. - V-Twin
+      motorcycles - Harley Davidson motorcycles - Sportbike and superbike
+      modification and performance parts - Adventure touring motorcycles:
+      Performance exhausts and other aftermarket motorcyle accessories
 
 
       ![](images/dino%20de%20wet%20roxstar%20performance.jpg)
 
 
-      ### **V-Twin bikes**
+      *   **V-Twin bikes**
 
 
-      ### **Harley Davidson motorbikes**
+      *   **Harley Davidson motorbikes**
 
 
-      ### **Adventure Touring motorcycles**
+      *   **Adventure Touring motorcycles**
 
 
       ### \*\*Sportbike | Superbike \*\*
