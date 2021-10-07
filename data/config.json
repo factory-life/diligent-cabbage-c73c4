@@ -29,8 +29,7 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ],
-        "logo": "images/ROXSTAR-PERFROMANCE-BRAND-LOGO (1).png"
+        ]
     },
     "footer": {
         "has_nav": true,
