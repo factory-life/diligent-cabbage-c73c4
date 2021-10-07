@@ -46,7 +46,7 @@ sections:
       - V-Twin motorcycles
       - Harley Davidson motorcycles
       - Sportbike and superbike modification and performance parts
-      - Adventure touring motorcycles 
+      - Adventure touring motorcycles: Performance exhausts and other aftermarket motorcyle accessories
 
 
 
