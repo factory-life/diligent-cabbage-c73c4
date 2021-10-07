@@ -72,10 +72,7 @@ sections:
 
       \*\*\*\*![](images/bike-rider-with-gears-on-minimal-4k\_1618131491.jpg)![](images/joe-neric-HHunRG19kF8-unsplash.jpg)
     type: content_section
-  - title: >-
-      Since 2007 - Premium aftermarket motorcycle brands supplied throughout the
-      entire South African market.
-    content: |
+  - content: |
       ## Some of our recommended brands include:
 
 
