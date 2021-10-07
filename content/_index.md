@@ -101,7 +101,7 @@ sections:
       ![](images/speedpro%20cobra%20exhausts%20south%20africa.jpg)
 
 
-      **Speedpro Cobra Performance Exhausts: Recommended brand **
+      ## Speedpro Cobra Performance Exhausts: Recommended brand 
 
 
       ### **Category: Performance Sportbike Exhausts**
