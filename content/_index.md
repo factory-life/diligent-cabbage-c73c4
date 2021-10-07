@@ -72,36 +72,47 @@ sections:
 
       \*\*\*\*![](images/bike-rider-with-gears-on-minimal-4k\_1618131491.jpg)![](images/joe-neric-HHunRG19kF8-unsplash.jpg)
     type: content_section
-  - content: |
-      ## Some of our recommended brands include:
-
-
-
+  - content: >
+      ## Since 2007 - Premium aftermarket motorcycle brands supplied throughout
+      the entire South African market.&#xA;&#xA;***Some of our recommended
+      brands include:***
 
 
       *   **Scorpion performance exhausts**
 
+
       *   **Speedpro Cobra exhausts**
+
 
       *   **Vance and Hines Exhausts**
 
+
       *   **Bassani Exhausts**
+
 
       *   **Cobra Exhausts**
 
+
       *   **BST Custom wheels**
+
 
       *   **Samson Exhausts**
 
+
       *   **Rhinehart exhausts**
+
 
       *   **Brocks Performance exhausts**
 
+
       *   **Toce Performance exhausts**
+
 
       ***
 
+
       \*\*\*\*![](images/PERFORMANCE%20BIKES.jpg)
+
 
       \*\*\*\*![](images/roxstar-performance.jpg)
     type: content_section
