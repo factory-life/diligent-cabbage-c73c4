@@ -78,7 +78,8 @@ sections:
   - title: Sportbike parts South Africa
     subtitle: >-
       Our exiting motorcycle products will give you sheer performance and
-      complete satisfaction. 
+      complete satisfaction. Throughout the years every brand we have supplied
+      has p
     actions: []
     align: left
     image_alt: lorem-ipsum
