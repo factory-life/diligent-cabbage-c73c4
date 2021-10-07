@@ -45,7 +45,7 @@ sections:
       cater for the following markets or types of motorcycles.<br>
       - V-Twin motorcycles
       <br>- Harley Davidson motorcycles
-      - Sportbike and superbike modification and performance parts
+      <br>- Sportbike and superbike modification and performance parts
       - Adventure touring motorcycles: Performance exhausts and other aftermarket motorcyle accessories
 
 
