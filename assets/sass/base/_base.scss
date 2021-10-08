@@ -146,7 +146,9 @@ figure {
   margin: 0;
 }
 
-
+.special {
+    color: black;
+}
 
 
 @include media-breakpoint-down(sm) {
